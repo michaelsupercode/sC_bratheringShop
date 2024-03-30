@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 const Navigation = (props) => {
     return ( 
         <nav>
-            <div>  
+            <div class="menue">  
                 <Link to={"/"}>Shop</Link>{' '}
                 <Link to={"/wishlist"}>Your Wishlist</Link>
             </div>
