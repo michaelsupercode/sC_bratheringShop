@@ -174,3 +174,8 @@ form textarea {
     border: none;
     cursor: pointer;
 }
+
+h6 {
+    margin: 1vh;
+    text-align: center;
+    }
